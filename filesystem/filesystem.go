@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/qor/oss"
+	"github.com/itech-eng/oss"
 )
 
 // FileSystem file system storage

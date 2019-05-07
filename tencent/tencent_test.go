@@ -5,7 +5,7 @@ import (
 	"bytes"
 	"io/ioutil"
 	"fmt"
-	"github.com/qor/oss/tests"
+	"github.com/itech-eng/oss/tests"
 )
 
 func TestClient_Get(t *testing.T) {
